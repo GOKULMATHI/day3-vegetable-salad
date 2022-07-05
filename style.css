@@ -1,0 +1,51 @@
+*{
+    margin:0%;
+    
+    padding:0% ;
+  }
+body{
+    font-family: 'Amatic SC', cursive;
+    background: #a4d4cc;
+    height: 100vh;
+    width: 100vw;
+ }
+ h1{
+    font-size: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+ p{
+    font-size: 3vh;
+    }
+    
+li{
+    font-size: 3vh;
+}
+    
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+ div{
+    margin: auto;
+    width: 80%;
+ }
+
+#titleName{
+    font-size: 10vh;
+}
+#vegetableSaladImage{
+    height: 60vh;
+    width: 100%;
+}
+#footerText{
+    font-size: 3vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
